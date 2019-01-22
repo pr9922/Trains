@@ -1,4 +1,4 @@
-package thoughtworks_challenge;
+package train_challenge;
 
 // Helper class for neighbors of graph nodes
 public class Neighbor {
