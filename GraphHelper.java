@@ -1,4 +1,4 @@
-package thoughtworks_challenge;
+package train_challenge;
 
 import java.util.*;
 
